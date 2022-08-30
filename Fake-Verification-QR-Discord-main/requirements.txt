@@ -1,0 +1,7 @@
+nextcord
+ascii2text
+cryptography
+websockets
+colorama
+requests
+urllib3
